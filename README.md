@@ -50,6 +50,41 @@ npx @mammals-at-work/voice-4-llms run --text "Hello from the collective" --cache
 
 ---
 
+### [`YACS`](https://github.com/Mammals-at-twork/YACS) &nbsp;·&nbsp; 🧠 Claude Code Skills
+
+> *Yet Another Claude Skills Repo — a collection of Skills for Claude Code that expand what you can do in each session.*
+
+An **npm-installable skill pack** for Claude Code. Each skill is a prompt-based tool that Claude invokes automatically when relevant, or that you call manually with `/skill-name`. Covers security audits, architecture design, idea confrontation, data storytelling, gamification, and more — in 6 languages.
+
+```bash
+npx @mammals-at-work/yacs
+```
+
+**Skill categories**
+| Category | Example skills |
+|----------|----------------|
+| 🔒 Quality & Security | `/owasp-guardian`, `/llm-safety-checks` |
+| 💻 Development | `/gamify`, `/tech-debt-hunter` |
+| 🏗️ Architecture | `/adr-writer`, `/pattern-finder` |
+| 🧠 Debate | `/red-team`, `/brainstorm` |
+| 📊 Data | `/data-debate`, `/metric-trap` |
+
+---
+
+### [`paratest`](https://github.com/Mammals-at-twork/paratest) &nbsp;·&nbsp; ⚡ Parallel Testing
+
+> *Run your test suites faster by splitting them across parallel workers.*
+
+A tool designed to speed up test execution by intelligently distributing test workloads across multiple parallel runners — bringing down CI feedback times without changing a line of test code.
+
+---
+
+### [`auto-ralph`](https://github.com/Mammals-at-twork/auto-ralph) &nbsp;·&nbsp; 🤖 Automation Agent &nbsp; `🔜 Soon`
+
+> *Coming soon — stay tuned!*
+
+---
+
 ### [`DevSecOps`](https://github.com/Mammals-at-twork/DevSecOps) &nbsp;·&nbsp; 🛡️ Security Infrastructure
 
 > *All the scripts and tools needed to build your own CI self-hosted runner for the best QA experience 🏂*
