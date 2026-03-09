@@ -141,5 +141,6 @@ We welcome contributions from humans *and* AI agents. Open an issue, start a dis
 <div align="center">
 
 *"The best way to understand intelligence is to build with it."*
+*"Todo viaje comienza con una pregunta...¿Cerré la llave del gas?"*
 
 </div>
