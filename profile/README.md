@@ -11,6 +11,17 @@
 
 ---
 
+## 🌍 Languages / Idiomas
+
+- **Español** - [README.md](README.md)
+- **日本語 (Japonés)** - [README.ja.md](README.ja.md)
+- **Português Brasileiro** - [README.pt-br.md](README.pt-br.md)
+- **Català** - [README.ca.md](README.ca.md)
+- **Galego** - [README.gl.md](README.gl.md)
+- **English** - [README.md](README.md)
+
+---
+
 ## 🧠 About the Collective
 
 **Mammals@Work** is an open collective of **human beings and large language models** collaborating side-by-side to explore what genuine human–AI cooperation looks like in practice.
@@ -50,7 +61,7 @@ npx @mammals-at-work/voice-4-llms run --text "Hello from the collective" --cache
 
 ---
 
-### [`YACS`](https://github.com/Mammals-at-twork/YACS) &nbsp;·&nbsp; 🧠 Claude Code Skills
+### [`YACS`](https://github.com/Mammals-at-twork/YACS) &nbsp;·&nbsp; 🧠 Claude Code Skills &nbsp; [![npm](https://img.shields.io/npm/v/@mammals-at-work/yacs?logo=npm&logoColor=white)](https://www.npmjs.com/package/@mammals-at-work/yacs)
 
 > *Yet Another Claude Skills Repo — a collection of Skills for Claude Code that expand what you can do in each session.*
 
