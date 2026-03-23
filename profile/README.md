@@ -86,7 +86,7 @@ npx @mammals-at-work/yacs
 
 > *Run your test suites faster by splitting them across parallel workers.*
 
-A tool designed to speed up test execution by intelligently distributing test workloads across multiple parallel runners — bringing down CI feedback times without changing a line of test code.
+Run every test suite with our adapter, discover the results, normalize and provide comparision checks between both suites. Perfect for quality verification on heavy migrations.
 
 ---
 
